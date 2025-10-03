@@ -1,0 +1,11 @@
+// #pragma kernel CalculateDisplacements
+
+
+
+// // Kernel to trigger a new bulge at a specific location
+// [numthreads(8,8,1)]
+// void CalculateDisplacements(uint3 id : SV_DispatchThreadID)
+// {
+
+// }
+
